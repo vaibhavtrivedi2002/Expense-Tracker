@@ -1,4 +1,4 @@
-// script.js 
+
 // Get form, expense list, and total amount elements 
 const expenseForm = 
 	document.getElementById("expense-form"); 
